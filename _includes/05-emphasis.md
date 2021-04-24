@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I wrote some code in **C**, **C++** and **Rust**. 
+*But it means nothing, 'cause I feel unskilled for real work*
